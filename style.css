@@ -1,0 +1,26 @@
+  .bg-primary {
+      background-color: #5C469C !important;
+  }
+
+  .jumbotron {
+      background-color: #1D267D !important;
+      border-radius: 5px;
+  }
+
+  .btn-primary {
+      background-color: #5C469C !important;
+      border-color: #0C134F !important;
+  }
+
+  .nav-item {
+      color: #fff;
+  }
+
+
+  body{
+    background-image: url("../header_bg.jpg");
+  }
+
+  h3{
+    color:black ;
+  }
